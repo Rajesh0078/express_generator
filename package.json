@@ -1,0 +1,21 @@
+{
+  "name": "express-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "bin": {
+    "express-by-rajesh": "./generator.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "latest-version": "^8.0.0",
+    "path": "^0.12.7"
+  }
+}
